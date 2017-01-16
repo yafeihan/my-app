@@ -92,6 +92,8 @@ For more information refer to [Using Docker and Docker-Compose][], this page als
 
 To set up a CI environment, consult the [Setting up Continuous Integration][] page.
 
+##今天要去参加年会了，厉害了Word用友
+
 [JHipster Homepage and latest documentation]: https://jhipster.github.io
 [JHipster 3.12.2 archive]: https://jhipster.github.io/documentation-archive/v3.12.2
 
